@@ -1,0 +1,4 @@
+{
+  "type": "array",
+  "items": {"$ref": "file:schemas/todos_schema.json"}
+}
